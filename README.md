@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJsoo&count_bg=%2336495E&title_bg=%2341B883&icon=github.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/USERNAME.svg?style=flat-square)](https://hits.sh/github.com/ParkJsoo/)
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Henry's%20github&fontSize=90)
 
