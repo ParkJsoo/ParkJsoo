@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/ParkJsoo.svg?view=today-total&style=for-the-badge&label=Hello&color=3178c6&labelColor=41b883&logo=github)](https://hits.sh/github.com/ParkJsoo/)
+[![Hits](https://hits.sh/github.com/ParkJsoo.svg?style=for-the-badge&label=Hello&color=3178c6&labelColor=41b883&logo=github)](https://hits.sh/github.com/ParkJsoo/)
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Henry's%20github&fontSize=90)
 
