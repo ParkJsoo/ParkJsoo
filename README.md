@@ -1,23 +1,26 @@
-[![Hits](https://hits.sh/github.com/ParkJsoo.svg?style=for-the-badge&label=Hello&color=3178c6&labelColor=41b883&logo=github)](https://hits.sh/github.com/ParkJsoo/)
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Henry's%20github&fontSize=90)
+# Hello, I'm Henry Park 👋
 
-### Skills
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/badge/reacthookform-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
+**Full-stack developer building reliable B2B security products.**
 
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+I build product features end to end—from Vue 3 interfaces to FastAPI services, PostgreSQL data models, and Linux delivery environments. I care about data correctness, maintainable operations, and the real conditions in which software is used.
 
-<!--
-**ParkJsoo/ParkJsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus
 
-Here are some ideas to get you started:
+- **Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL
+- **Frontend:** Vue 3, TypeScript, Pinia, Vite
+- **Delivery & operations:** Linux, systemd, Nginx, SELinux, Shell scripting
+- **Quality:** Playwright, accessible UI foundations, repeatable release workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [namgimeopsi](https://github.com/ParkJsoo/namgimeopsi) — AI-powered food inventory and meal-decision app for one- and two-person households
+- [motionbrain](https://github.com/ParkJsoo/motionbrain) — ESP32-based intelligent motion-control system
+- [altino-ros2-lab](https://github.com/ParkJsoo/altino-ros2-lab) — ROS 2 mobile-robot lab with BLE control, sensor integration, and navigation experiments
+
+## How I work
+
+I look beyond an individual screen or API to find the common cause, make behavior and state transitions explicit, and leave a clear path to verify and operate the result.
+
+---
+
+Based in Seoul, Republic of Korea · [Velog](https://velog.io/@integer)
