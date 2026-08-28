@@ -1,26 +1,11 @@
-# 안녕하세요, 박정수입니다 👋
+[![Hits](https://hits.sh/github.com/ParkJsoo.svg?style=for-the-badge&label=Hello&color=3178c6&labelColor=41b883&logo=github)](https://hits.sh/github.com/ParkJsoo/)
 
-**운영 환경까지 고려해 보안 B2B 제품을 만드는 풀스택 개발자입니다.**
+### Hi there 👋
 
-Vue 3 화면부터 FastAPI 서비스, PostgreSQL 데이터 모델, Linux 배포 환경까지 제품 기능을 처음부터 끝까지 구현합니다. 데이터 정합성, 유지보수 가능한 운영 방식, 실제 사용 환경에서의 안정성을 중요하게 생각합니다.
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Henry's%20github&fontSize=90)
 
-## 주로 다루는 영역
+### Skills
 
-- **백엔드:** Python, FastAPI, SQLAlchemy, PostgreSQL
-- **프론트엔드:** Vue 3, TypeScript, Pinia, Vite
-- **배포·운영:** Linux, systemd, Nginx, SELinux, Shell Script
-- **품질:** Playwright, 접근성을 고려한 UI 공통 기반, 반복 가능한 배포 절차
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
-## 대표 프로젝트
-
-- [namgimeopsi](https://github.com/ParkJsoo/namgimeopsi) — 1~2인 가구를 위한 AI 식재고 관리·식사 결정 앱
-- [motionbrain](https://github.com/ParkJsoo/motionbrain) — ESP32 기반 지능형 모션 제어 시스템
-- [altino-ros2-lab](https://github.com/ParkJsoo/altino-ros2-lab) — BLE 제어, 센서 연동, 내비게이션 실험을 포함한 ROS 2 모바일 로봇 랩
-
-## 일하는 방식
-
-개별 화면이나 API만 고치기보다 공통 원인을 먼저 찾고, 상태 전이와 동작 조건을 명확히 합니다. 구현 후에는 실제로 확인하고 운영할 수 있는 경로까지 남기는 편입니다.
-
----
-
-서울, 대한민국 · [Velog](https://velog.io/@integer)
+<img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=Pinia&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=Playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
